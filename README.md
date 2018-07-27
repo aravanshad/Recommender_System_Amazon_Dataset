@@ -1,6 +1,6 @@
 # Recommender_System_Amazon_Dataset
 
-We have built a recommender system on Amazon's recommendation dataset available at https://www.kaggle.com/qwikfix/amazon-recommendation-dataset/data
+I have built a recommender system on Amazon's recommendation dataset available at https://www.kaggle.com/qwikfix/amazon-recommendation-dataset/data
 If you are a data scientist, the first thing comes to your mind when you hear the word "Amazon" is `Recommender System`. Our objective was to implement two recommendation system techniques including `Collaborative Filtering` and `Content-Based Filtering` and evaluate their performance, with respect to a base non-personalized model (Popularity model), for the task of providing personalized recommendations to the users.
 
 ### Dataset
